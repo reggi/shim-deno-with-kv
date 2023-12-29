@@ -1,0 +1,20 @@
+{
+  "name": "@reggi/shim-deno-with-kv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/deno.js",
+  "types": "./dist/deno.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@deno/kv": "^0.7.0",
+    "@deno/shim-deno": "^0.17.0"
+  }
+}
