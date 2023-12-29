@@ -16,5 +16,9 @@
   "dependencies": {
     "@deno/kv": "^0.7.0",
     "@deno/shim-deno": "^0.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reggi/shim-deno-with-kv.git"
   }
 }
